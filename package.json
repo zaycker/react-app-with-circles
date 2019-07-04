@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "pointscircles": "git+https://github.com/zaycker/point-in-circle.git",
+    "classnames": "^2.2.6",
+    "pointscircles": "github:zaycker/point-in-circle",
+    "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
